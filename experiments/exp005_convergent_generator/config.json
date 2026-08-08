@@ -1,0 +1,15 @@
+{
+  "experiment_id": "exp005_convergent_generator",
+  "code_commit": "0a841ed",
+  "n_targets": 11,
+  "seeds": [
+    42,
+    137,
+    2024
+  ],
+  "modes": [
+    "controlled",
+    "natural"
+  ],
+  "H": 100
+}

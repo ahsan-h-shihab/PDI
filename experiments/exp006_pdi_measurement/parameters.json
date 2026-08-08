@@ -1,0 +1,17 @@
+{
+  "seeds": [
+    42,
+    137
+  ],
+  "modes": [
+    "controlled"
+  ],
+  "H": 100,
+  "n_targets": 50,
+  "families": [
+    "F1_degrade",
+    "F2_recover",
+    "F3_counter_primed",
+    "F4_counter_reset"
+  ]
+}

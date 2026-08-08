@@ -1,0 +1,501 @@
+mode,seed,T_star,S_star,R_star,family,terminal_level,s1_pass,adm_pass,oos,error
+controlled,42,0.68,0.76,0.16,F1_degrade,2,True,True,False,
+controlled,42,0.68,0.76,0.16,F2_recover,2,True,True,False,
+controlled,42,0.68,0.76,0.16,F3_counter_primed,2,True,True,False,
+controlled,42,0.68,0.76,0.16,F4_counter_reset,,,,True,F4 infeasible for R*=0.160: max ARS drop 0.0462 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.68,0.76,0.16,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.66,0.76,0.18,F1_degrade,2,True,True,False,
+controlled,42,0.66,0.76,0.18,F2_recover,2,True,True,False,
+controlled,42,0.66,0.76,0.18,F3_counter_primed,2,True,True,False,
+controlled,42,0.66,0.76,0.18,F4_counter_reset,,,,True,F4 infeasible for R*=0.180: max ARS drop 0.0502 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.66,0.76,0.18,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.66,0.74,0.28,F1_degrade,2,True,True,False,
+controlled,42,0.66,0.74,0.28,F2_recover,2,True,True,False,
+controlled,42,0.66,0.74,0.28,F3_counter_primed,2,True,True,False,
+controlled,42,0.66,0.74,0.28,F4_counter_reset,,,,True,F4 infeasible for R*=0.280: max ARS drop 0.0702 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.66,0.74,0.28,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.68,0.74,0.22,F1_degrade,2,True,True,False,
+controlled,42,0.68,0.74,0.22,F2_recover,2,True,True,False,
+controlled,42,0.68,0.74,0.22,F3_counter_primed,2,True,True,False,
+controlled,42,0.68,0.74,0.22,F4_counter_reset,,,,True,F4 infeasible for R*=0.220: max ARS drop 0.0582 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.68,0.74,0.22,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.66,0.74,0.24,F1_degrade,2,True,True,False,
+controlled,42,0.66,0.74,0.24,F2_recover,2,True,True,False,
+controlled,42,0.66,0.74,0.24,F3_counter_primed,2,True,True,False,
+controlled,42,0.66,0.74,0.24,F4_counter_reset,,,,True,F4 infeasible for R*=0.240: max ARS drop 0.0622 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.66,0.74,0.24,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.66,0.8,0.2,F1_degrade,2,True,True,False,
+controlled,42,0.66,0.8,0.2,F2_recover,2,True,True,False,
+controlled,42,0.66,0.8,0.2,F3_counter_primed,2,True,True,False,
+controlled,42,0.66,0.8,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.66,0.8,0.2,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.68,0.74,0.18,F1_degrade,2,True,True,False,
+controlled,42,0.68,0.74,0.18,F2_recover,2,True,True,False,
+controlled,42,0.68,0.74,0.18,F3_counter_primed,2,True,True,False,
+controlled,42,0.68,0.74,0.18,F4_counter_reset,,,,True,F4 infeasible for R*=0.180: max ARS drop 0.0502 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.68,0.74,0.18,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.7,0.8,0.28,F1_degrade,2,True,True,False,
+controlled,42,0.7,0.8,0.28,F2_recover,2,True,True,False,
+controlled,42,0.7,0.8,0.28,F3_counter_primed,2,True,True,False,
+controlled,42,0.7,0.8,0.28,F4_counter_reset,,,,True,F4 infeasible for R*=0.280: max ARS drop 0.0702 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.7,0.8,0.28,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.68,0.72,0.16,F1_degrade,2,True,True,False,
+controlled,42,0.68,0.72,0.16,F2_recover,2,True,True,False,
+controlled,42,0.68,0.72,0.16,F3_counter_primed,2,True,True,False,
+controlled,42,0.68,0.72,0.16,F4_counter_reset,,,,True,F4 infeasible for R*=0.160: max ARS drop 0.0462 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.68,0.72,0.16,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.66,0.7,0.18,F1_degrade,2,True,True,False,
+controlled,42,0.66,0.7,0.18,F2_recover,2,True,True,False,
+controlled,42,0.66,0.7,0.18,F3_counter_primed,2,True,True,False,
+controlled,42,0.66,0.7,0.18,F4_counter_reset,,,,True,F4 infeasible for R*=0.180: max ARS drop 0.0502 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.66,0.7,0.18,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.68,0.72,0.2,F1_degrade,2,True,True,False,
+controlled,42,0.68,0.72,0.2,F2_recover,2,True,True,False,
+controlled,42,0.68,0.72,0.2,F3_counter_primed,2,True,True,False,
+controlled,42,0.68,0.72,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.68,0.72,0.2,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.66,0.8,0.16,F1_degrade,2,True,True,False,
+controlled,42,0.66,0.8,0.16,F2_recover,2,True,True,False,
+controlled,42,0.66,0.8,0.16,F3_counter_primed,2,True,True,False,
+controlled,42,0.66,0.8,0.16,F4_counter_reset,,,,True,F4 infeasible for R*=0.160: max ARS drop 0.0462 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.66,0.8,0.16,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.7,0.72,0.22,F1_degrade,2,True,True,False,
+controlled,42,0.7,0.72,0.22,F2_recover,2,True,True,False,
+controlled,42,0.7,0.72,0.22,F3_counter_primed,2,True,True,False,
+controlled,42,0.7,0.72,0.22,F4_counter_reset,,,,True,F4 infeasible for R*=0.220: max ARS drop 0.0582 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.7,0.72,0.22,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.66,0.72,0.22,F1_degrade,2,True,True,False,
+controlled,42,0.66,0.72,0.22,F2_recover,2,True,True,False,
+controlled,42,0.66,0.72,0.22,F3_counter_primed,2,True,True,False,
+controlled,42,0.66,0.72,0.22,F4_counter_reset,,,,True,F4 infeasible for R*=0.220: max ARS drop 0.0582 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.66,0.72,0.22,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.7,0.78,0.2,F1_degrade,2,True,True,False,
+controlled,42,0.7,0.78,0.2,F2_recover,2,True,True,False,
+controlled,42,0.7,0.78,0.2,F3_counter_primed,2,True,True,False,
+controlled,42,0.7,0.78,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.7,0.78,0.2,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.7,0.72,0.24,F1_degrade,2,True,True,False,
+controlled,42,0.7,0.72,0.24,F2_recover,2,True,True,False,
+controlled,42,0.7,0.72,0.24,F3_counter_primed,2,True,True,False,
+controlled,42,0.7,0.72,0.24,F4_counter_reset,,,,True,F4 infeasible for R*=0.240: max ARS drop 0.0622 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.7,0.72,0.24,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.7,0.74,0.16,F1_degrade,2,True,True,False,
+controlled,42,0.7,0.74,0.16,F2_recover,2,True,True,False,
+controlled,42,0.7,0.74,0.16,F3_counter_primed,2,True,True,False,
+controlled,42,0.7,0.74,0.16,F4_counter_reset,,,,True,F4 infeasible for R*=0.160: max ARS drop 0.0462 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.7,0.74,0.16,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.68,0.78,0.16,F1_degrade,2,True,True,False,
+controlled,42,0.68,0.78,0.16,F2_recover,2,True,True,False,
+controlled,42,0.68,0.78,0.16,F3_counter_primed,2,True,True,False,
+controlled,42,0.68,0.78,0.16,F4_counter_reset,,,,True,F4 infeasible for R*=0.160: max ARS drop 0.0462 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.68,0.78,0.16,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.68,0.76,0.28,F1_degrade,2,True,True,False,
+controlled,42,0.68,0.76,0.28,F2_recover,2,True,True,False,
+controlled,42,0.68,0.76,0.28,F3_counter_primed,2,True,True,False,
+controlled,42,0.68,0.76,0.28,F4_counter_reset,,,,True,F4 infeasible for R*=0.280: max ARS drop 0.0702 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.68,0.76,0.28,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.68,0.76,0.18,F1_degrade,2,True,True,False,
+controlled,42,0.68,0.76,0.18,F2_recover,2,True,True,False,
+controlled,42,0.68,0.76,0.18,F3_counter_primed,2,True,True,False,
+controlled,42,0.68,0.76,0.18,F4_counter_reset,,,,True,F4 infeasible for R*=0.180: max ARS drop 0.0502 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.68,0.76,0.18,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.68,0.72,0.28,F1_degrade,2,True,True,False,
+controlled,42,0.68,0.72,0.28,F2_recover,2,True,True,False,
+controlled,42,0.68,0.72,0.28,F3_counter_primed,2,True,True,False,
+controlled,42,0.68,0.72,0.28,F4_counter_reset,,,,True,F4 infeasible for R*=0.280: max ARS drop 0.0702 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.68,0.72,0.28,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.66,0.74,0.22,F1_degrade,2,True,True,False,
+controlled,42,0.66,0.74,0.22,F2_recover,2,True,True,False,
+controlled,42,0.66,0.74,0.22,F3_counter_primed,2,True,True,False,
+controlled,42,0.66,0.74,0.22,F4_counter_reset,,,,True,F4 infeasible for R*=0.220: max ARS drop 0.0582 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.66,0.74,0.22,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.66,0.72,0.28,F1_degrade,2,True,True,False,
+controlled,42,0.66,0.72,0.28,F2_recover,2,True,True,False,
+controlled,42,0.66,0.72,0.28,F3_counter_primed,2,True,True,False,
+controlled,42,0.66,0.72,0.28,F4_counter_reset,,,,True,F4 infeasible for R*=0.280: max ARS drop 0.0702 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.66,0.72,0.28,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.68,0.74,0.2,F1_degrade,2,True,True,False,
+controlled,42,0.68,0.74,0.2,F2_recover,2,True,True,False,
+controlled,42,0.68,0.74,0.2,F3_counter_primed,2,True,True,False,
+controlled,42,0.68,0.74,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.68,0.74,0.2,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.7,0.76,0.16,F1_degrade,2,True,True,False,
+controlled,42,0.7,0.76,0.16,F2_recover,2,True,True,False,
+controlled,42,0.7,0.76,0.16,F3_counter_primed,2,True,True,False,
+controlled,42,0.7,0.76,0.16,F4_counter_reset,,,,True,F4 infeasible for R*=0.160: max ARS drop 0.0462 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.7,0.76,0.16,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.66,0.8,0.22,F1_degrade,2,True,True,False,
+controlled,42,0.66,0.8,0.22,F2_recover,2,True,True,False,
+controlled,42,0.66,0.8,0.22,F3_counter_primed,2,True,True,False,
+controlled,42,0.66,0.8,0.22,F4_counter_reset,,,,True,F4 infeasible for R*=0.220: max ARS drop 0.0582 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.66,0.8,0.22,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.64,0.76,0.24,F1_degrade,2,True,True,False,
+controlled,42,0.64,0.76,0.24,F2_recover,2,True,True,False,
+controlled,42,0.64,0.76,0.24,F3_counter_primed,2,True,True,False,
+controlled,42,0.64,0.76,0.24,F4_counter_reset,,,,True,F4 infeasible for R*=0.240: max ARS drop 0.0622 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.64,0.76,0.24,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.68,0.8,0.16,F1_degrade,2,True,True,False,
+controlled,42,0.68,0.8,0.16,F2_recover,2,True,True,False,
+controlled,42,0.68,0.8,0.16,F3_counter_primed,2,True,True,False,
+controlled,42,0.68,0.8,0.16,F4_counter_reset,,,,True,F4 infeasible for R*=0.160: max ARS drop 0.0462 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.68,0.8,0.16,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.64,0.72,0.2,F1_degrade,2,True,True,False,
+controlled,42,0.64,0.72,0.2,F2_recover,2,True,True,False,
+controlled,42,0.64,0.72,0.2,F3_counter_primed,2,True,True,False,
+controlled,42,0.64,0.72,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.64,0.72,0.2,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.7,0.74,0.18,F1_degrade,2,True,True,False,
+controlled,42,0.7,0.74,0.18,F2_recover,2,True,True,False,
+controlled,42,0.7,0.74,0.18,F3_counter_primed,2,True,True,False,
+controlled,42,0.7,0.74,0.18,F4_counter_reset,,,,True,F4 infeasible for R*=0.180: max ARS drop 0.0502 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.7,0.74,0.18,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.66,0.74,0.2,F1_degrade,2,True,True,False,
+controlled,42,0.66,0.74,0.2,F2_recover,2,True,True,False,
+controlled,42,0.66,0.74,0.2,F3_counter_primed,2,True,True,False,
+controlled,42,0.66,0.74,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.66,0.74,0.2,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.66,0.72,0.2,F1_degrade,2,True,True,False,
+controlled,42,0.66,0.72,0.2,F2_recover,2,True,True,False,
+controlled,42,0.66,0.72,0.2,F3_counter_primed,2,True,True,False,
+controlled,42,0.66,0.72,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.66,0.72,0.2,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.68,0.72,0.26,F1_degrade,2,True,True,False,
+controlled,42,0.68,0.72,0.26,F2_recover,2,True,True,False,
+controlled,42,0.68,0.72,0.26,F3_counter_primed,2,True,True,False,
+controlled,42,0.68,0.72,0.26,F4_counter_reset,,,,True,F4 infeasible for R*=0.260: max ARS drop 0.0662 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.68,0.72,0.26,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.7,0.76,0.28,F1_degrade,2,True,True,False,
+controlled,42,0.7,0.76,0.28,F2_recover,2,True,True,False,
+controlled,42,0.7,0.76,0.28,F3_counter_primed,2,True,True,False,
+controlled,42,0.7,0.76,0.28,F4_counter_reset,,,,True,F4 infeasible for R*=0.280: max ARS drop 0.0702 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.7,0.76,0.28,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.7,0.74,0.24,F1_degrade,2,True,True,False,
+controlled,42,0.7,0.74,0.24,F2_recover,2,True,True,False,
+controlled,42,0.7,0.74,0.24,F3_counter_primed,2,True,True,False,
+controlled,42,0.7,0.74,0.24,F4_counter_reset,,,,True,F4 infeasible for R*=0.240: max ARS drop 0.0622 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.7,0.74,0.24,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.72,0.72,0.22,F1_degrade,2,True,True,False,
+controlled,42,0.72,0.72,0.22,F2_recover,2,True,True,False,
+controlled,42,0.72,0.72,0.22,F3_counter_primed,2,True,True,False,
+controlled,42,0.72,0.72,0.22,F4_counter_reset,,,,True,F4 infeasible for R*=0.220: max ARS drop 0.0582 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.72,0.72,0.22,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.7,0.76,0.24,F1_degrade,2,True,True,False,
+controlled,42,0.7,0.76,0.24,F2_recover,2,True,True,False,
+controlled,42,0.7,0.76,0.24,F3_counter_primed,2,True,True,False,
+controlled,42,0.7,0.76,0.24,F4_counter_reset,,,,True,F4 infeasible for R*=0.240: max ARS drop 0.0622 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.7,0.76,0.24,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.68,0.74,0.24,F1_degrade,2,True,True,False,
+controlled,42,0.68,0.74,0.24,F2_recover,2,True,True,False,
+controlled,42,0.68,0.74,0.24,F3_counter_primed,2,True,True,False,
+controlled,42,0.68,0.74,0.24,F4_counter_reset,,,,True,F4 infeasible for R*=0.240: max ARS drop 0.0622 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.68,0.74,0.24,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.68,0.76,0.26,F1_degrade,2,True,True,False,
+controlled,42,0.68,0.76,0.26,F2_recover,2,True,True,False,
+controlled,42,0.68,0.76,0.26,F3_counter_primed,2,True,True,False,
+controlled,42,0.68,0.76,0.26,F4_counter_reset,,,,True,F4 infeasible for R*=0.260: max ARS drop 0.0662 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.68,0.76,0.26,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.7,0.72,0.2,F1_degrade,2,True,True,False,
+controlled,42,0.7,0.72,0.2,F2_recover,2,True,True,False,
+controlled,42,0.7,0.72,0.2,F3_counter_primed,2,True,True,False,
+controlled,42,0.7,0.72,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.7,0.72,0.2,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.7,0.74,0.2,F1_degrade,2,True,True,False,
+controlled,42,0.7,0.74,0.2,F2_recover,2,True,True,False,
+controlled,42,0.7,0.74,0.2,F3_counter_primed,2,True,True,False,
+controlled,42,0.7,0.74,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.7,0.74,0.2,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.66,0.76,0.16,F1_degrade,2,True,True,False,
+controlled,42,0.66,0.76,0.16,F2_recover,2,True,True,False,
+controlled,42,0.66,0.76,0.16,F3_counter_primed,2,True,True,False,
+controlled,42,0.66,0.76,0.16,F4_counter_reset,,,,True,F4 infeasible for R*=0.160: max ARS drop 0.0462 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.66,0.76,0.16,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.64,0.76,0.2,F1_degrade,2,True,True,False,
+controlled,42,0.64,0.76,0.2,F2_recover,2,True,True,False,
+controlled,42,0.64,0.76,0.2,F3_counter_primed,2,True,True,False,
+controlled,42,0.64,0.76,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.64,0.76,0.2,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.64,0.78,0.24,F1_degrade,2,True,True,False,
+controlled,42,0.64,0.78,0.24,F2_recover,2,True,True,False,
+controlled,42,0.64,0.78,0.24,F3_counter_primed,2,True,True,False,
+controlled,42,0.64,0.78,0.24,F4_counter_reset,,,,True,F4 infeasible for R*=0.240: max ARS drop 0.0622 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.64,0.78,0.24,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.66,0.7,0.28,F1_degrade,2,True,True,False,
+controlled,42,0.66,0.7,0.28,F2_recover,2,True,True,False,
+controlled,42,0.66,0.7,0.28,F3_counter_primed,2,True,True,False,
+controlled,42,0.66,0.7,0.28,F4_counter_reset,,,,True,F4 infeasible for R*=0.280: max ARS drop 0.0702 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.66,0.7,0.28,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.66,0.78,0.2,F1_degrade,2,True,True,False,
+controlled,42,0.66,0.78,0.2,F2_recover,2,True,True,False,
+controlled,42,0.66,0.78,0.2,F3_counter_primed,2,True,True,False,
+controlled,42,0.66,0.78,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.66,0.78,0.2,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.7,0.76,0.2,F1_degrade,2,True,True,False,
+controlled,42,0.7,0.76,0.2,F2_recover,2,True,True,False,
+controlled,42,0.7,0.76,0.2,F3_counter_primed,2,True,True,False,
+controlled,42,0.7,0.76,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.7,0.76,0.2,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.68,0.74,0.26,F1_degrade,2,True,True,False,
+controlled,42,0.68,0.74,0.26,F2_recover,2,True,True,False,
+controlled,42,0.68,0.74,0.26,F3_counter_primed,2,True,True,False,
+controlled,42,0.68,0.74,0.26,F4_counter_reset,,,,True,F4 infeasible for R*=0.260: max ARS drop 0.0662 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.68,0.74,0.26,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.7,0.72,0.16,F1_degrade,2,True,True,False,
+controlled,42,0.7,0.72,0.16,F2_recover,2,True,True,False,
+controlled,42,0.7,0.72,0.16,F3_counter_primed,2,True,True,False,
+controlled,42,0.7,0.72,0.16,F4_counter_reset,,,,True,F4 infeasible for R*=0.160: max ARS drop 0.0462 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.7,0.72,0.16,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,42,0.68,0.74,0.16,F1_degrade,2,True,True,False,
+controlled,42,0.68,0.74,0.16,F2_recover,2,True,True,False,
+controlled,42,0.68,0.74,0.16,F3_counter_primed,2,True,True,False,
+controlled,42,0.68,0.74,0.16,F4_counter_reset,,,,True,F4 infeasible for R*=0.160: max ARS drop 0.0462 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,42,0.68,0.74,0.16,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.68,0.76,0.16,F1_degrade,3,True,True,False,
+controlled,137,0.68,0.76,0.16,F2_recover,2,True,True,False,
+controlled,137,0.68,0.76,0.16,F3_counter_primed,3,True,True,False,
+controlled,137,0.68,0.76,0.16,F4_counter_reset,,,,True,F4 infeasible for R*=0.160: max ARS drop 0.0462 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.68,0.76,0.16,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.66,0.76,0.18,F1_degrade,3,True,True,False,
+controlled,137,0.66,0.76,0.18,F2_recover,2,True,True,False,
+controlled,137,0.66,0.76,0.18,F3_counter_primed,3,True,True,False,
+controlled,137,0.66,0.76,0.18,F4_counter_reset,,,,True,F4 infeasible for R*=0.180: max ARS drop 0.0502 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.66,0.76,0.18,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.66,0.74,0.28,F1_degrade,3,True,True,False,
+controlled,137,0.66,0.74,0.28,F2_recover,2,True,True,False,
+controlled,137,0.66,0.74,0.28,F3_counter_primed,2,True,True,False,
+controlled,137,0.66,0.74,0.28,F4_counter_reset,,,,True,F4 infeasible for R*=0.280: max ARS drop 0.0702 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.66,0.74,0.28,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.68,0.74,0.22,F1_degrade,3,True,True,False,
+controlled,137,0.68,0.74,0.22,F2_recover,2,True,True,False,
+controlled,137,0.68,0.74,0.22,F3_counter_primed,3,True,True,False,
+controlled,137,0.68,0.74,0.22,F4_counter_reset,,,,True,F4 infeasible for R*=0.220: max ARS drop 0.0582 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.68,0.74,0.22,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.66,0.74,0.24,F1_degrade,3,True,True,False,
+controlled,137,0.66,0.74,0.24,F2_recover,2,True,True,False,
+controlled,137,0.66,0.74,0.24,F3_counter_primed,3,True,True,False,
+controlled,137,0.66,0.74,0.24,F4_counter_reset,,,,True,F4 infeasible for R*=0.240: max ARS drop 0.0622 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.66,0.74,0.24,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.66,0.8,0.2,F1_degrade,3,True,True,False,
+controlled,137,0.66,0.8,0.2,F2_recover,2,True,True,False,
+controlled,137,0.66,0.8,0.2,F3_counter_primed,3,True,True,False,
+controlled,137,0.66,0.8,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.66,0.8,0.2,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.68,0.74,0.18,F1_degrade,3,True,True,False,
+controlled,137,0.68,0.74,0.18,F2_recover,2,True,True,False,
+controlled,137,0.68,0.74,0.18,F3_counter_primed,3,True,True,False,
+controlled,137,0.68,0.74,0.18,F4_counter_reset,,,,True,F4 infeasible for R*=0.180: max ARS drop 0.0502 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.68,0.74,0.18,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.7,0.8,0.28,F1_degrade,3,True,True,False,
+controlled,137,0.7,0.8,0.28,F2_recover,2,True,True,False,
+controlled,137,0.7,0.8,0.28,F3_counter_primed,3,True,True,False,
+controlled,137,0.7,0.8,0.28,F4_counter_reset,,,,True,F4 infeasible for R*=0.280: max ARS drop 0.0702 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.7,0.8,0.28,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.68,0.72,0.16,F1_degrade,3,True,True,False,
+controlled,137,0.68,0.72,0.16,F2_recover,2,True,True,False,
+controlled,137,0.68,0.72,0.16,F3_counter_primed,3,True,True,False,
+controlled,137,0.68,0.72,0.16,F4_counter_reset,,,,True,F4 infeasible for R*=0.160: max ARS drop 0.0462 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.68,0.72,0.16,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.66,0.7,0.18,F1_degrade,2,True,True,False,
+controlled,137,0.66,0.7,0.18,F2_recover,2,True,True,False,
+controlled,137,0.66,0.7,0.18,F3_counter_primed,3,True,True,False,
+controlled,137,0.66,0.7,0.18,F4_counter_reset,,,,True,F4 infeasible for R*=0.180: max ARS drop 0.0502 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.66,0.7,0.18,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.68,0.72,0.2,F1_degrade,3,True,True,False,
+controlled,137,0.68,0.72,0.2,F2_recover,2,True,True,False,
+controlled,137,0.68,0.72,0.2,F3_counter_primed,3,True,True,False,
+controlled,137,0.68,0.72,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.68,0.72,0.2,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.66,0.8,0.16,F1_degrade,3,True,True,False,
+controlled,137,0.66,0.8,0.16,F2_recover,2,True,True,False,
+controlled,137,0.66,0.8,0.16,F3_counter_primed,3,True,True,False,
+controlled,137,0.66,0.8,0.16,F4_counter_reset,,,,True,F4 infeasible for R*=0.160: max ARS drop 0.0462 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.66,0.8,0.16,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.7,0.72,0.22,F1_degrade,3,True,True,False,
+controlled,137,0.7,0.72,0.22,F2_recover,2,True,True,False,
+controlled,137,0.7,0.72,0.22,F3_counter_primed,3,True,True,False,
+controlled,137,0.7,0.72,0.22,F4_counter_reset,,,,True,F4 infeasible for R*=0.220: max ARS drop 0.0582 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.7,0.72,0.22,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.66,0.72,0.22,F1_degrade,2,True,True,False,
+controlled,137,0.66,0.72,0.22,F2_recover,2,True,True,False,
+controlled,137,0.66,0.72,0.22,F3_counter_primed,3,True,True,False,
+controlled,137,0.66,0.72,0.22,F4_counter_reset,,,,True,F4 infeasible for R*=0.220: max ARS drop 0.0582 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.66,0.72,0.22,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.7,0.78,0.2,F1_degrade,3,True,True,False,
+controlled,137,0.7,0.78,0.2,F2_recover,2,True,True,False,
+controlled,137,0.7,0.78,0.2,F3_counter_primed,3,True,True,False,
+controlled,137,0.7,0.78,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.7,0.78,0.2,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.7,0.72,0.24,F1_degrade,3,True,True,False,
+controlled,137,0.7,0.72,0.24,F2_recover,2,True,True,False,
+controlled,137,0.7,0.72,0.24,F3_counter_primed,3,True,True,False,
+controlled,137,0.7,0.72,0.24,F4_counter_reset,,,,True,F4 infeasible for R*=0.240: max ARS drop 0.0622 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.7,0.72,0.24,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.7,0.74,0.16,F1_degrade,3,True,True,False,
+controlled,137,0.7,0.74,0.16,F2_recover,2,True,True,False,
+controlled,137,0.7,0.74,0.16,F3_counter_primed,3,True,True,False,
+controlled,137,0.7,0.74,0.16,F4_counter_reset,,,,True,F4 infeasible for R*=0.160: max ARS drop 0.0462 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.7,0.74,0.16,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.68,0.78,0.16,F1_degrade,3,True,True,False,
+controlled,137,0.68,0.78,0.16,F2_recover,2,True,True,False,
+controlled,137,0.68,0.78,0.16,F3_counter_primed,3,True,True,False,
+controlled,137,0.68,0.78,0.16,F4_counter_reset,,,,True,F4 infeasible for R*=0.160: max ARS drop 0.0462 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.68,0.78,0.16,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.68,0.76,0.28,F1_degrade,3,True,True,False,
+controlled,137,0.68,0.76,0.28,F2_recover,2,True,True,False,
+controlled,137,0.68,0.76,0.28,F3_counter_primed,3,True,True,False,
+controlled,137,0.68,0.76,0.28,F4_counter_reset,,,,True,F4 infeasible for R*=0.280: max ARS drop 0.0702 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.68,0.76,0.28,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.68,0.76,0.18,F1_degrade,3,True,True,False,
+controlled,137,0.68,0.76,0.18,F2_recover,2,True,True,False,
+controlled,137,0.68,0.76,0.18,F3_counter_primed,3,True,True,False,
+controlled,137,0.68,0.76,0.18,F4_counter_reset,,,,True,F4 infeasible for R*=0.180: max ARS drop 0.0502 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.68,0.76,0.18,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.68,0.72,0.28,F1_degrade,3,True,True,False,
+controlled,137,0.68,0.72,0.28,F2_recover,2,True,True,False,
+controlled,137,0.68,0.72,0.28,F3_counter_primed,3,True,True,False,
+controlled,137,0.68,0.72,0.28,F4_counter_reset,,,,True,F4 infeasible for R*=0.280: max ARS drop 0.0702 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.68,0.72,0.28,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.66,0.74,0.22,F1_degrade,3,True,True,False,
+controlled,137,0.66,0.74,0.22,F2_recover,2,True,True,False,
+controlled,137,0.66,0.74,0.22,F3_counter_primed,3,True,True,False,
+controlled,137,0.66,0.74,0.22,F4_counter_reset,,,,True,F4 infeasible for R*=0.220: max ARS drop 0.0582 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.66,0.74,0.22,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.66,0.72,0.28,F1_degrade,2,True,True,False,
+controlled,137,0.66,0.72,0.28,F2_recover,2,True,True,False,
+controlled,137,0.66,0.72,0.28,F3_counter_primed,2,True,True,False,
+controlled,137,0.66,0.72,0.28,F4_counter_reset,,,,True,F4 infeasible for R*=0.280: max ARS drop 0.0702 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.66,0.72,0.28,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.68,0.74,0.2,F1_degrade,3,True,True,False,
+controlled,137,0.68,0.74,0.2,F2_recover,2,True,True,False,
+controlled,137,0.68,0.74,0.2,F3_counter_primed,3,True,True,False,
+controlled,137,0.68,0.74,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.68,0.74,0.2,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.7,0.76,0.16,F1_degrade,3,True,True,False,
+controlled,137,0.7,0.76,0.16,F2_recover,2,True,True,False,
+controlled,137,0.7,0.76,0.16,F3_counter_primed,3,True,True,False,
+controlled,137,0.7,0.76,0.16,F4_counter_reset,,,,True,F4 infeasible for R*=0.160: max ARS drop 0.0462 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.7,0.76,0.16,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.66,0.8,0.22,F1_degrade,3,True,True,False,
+controlled,137,0.66,0.8,0.22,F2_recover,2,True,True,False,
+controlled,137,0.66,0.8,0.22,F3_counter_primed,3,True,True,False,
+controlled,137,0.66,0.8,0.22,F4_counter_reset,,,,True,F4 infeasible for R*=0.220: max ARS drop 0.0582 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.66,0.8,0.22,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.64,0.76,0.24,F1_degrade,2,True,True,False,
+controlled,137,0.64,0.76,0.24,F2_recover,2,True,True,False,
+controlled,137,0.64,0.76,0.24,F3_counter_primed,3,True,True,False,
+controlled,137,0.64,0.76,0.24,F4_counter_reset,,,,True,F4 infeasible for R*=0.240: max ARS drop 0.0622 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.64,0.76,0.24,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.68,0.8,0.16,F1_degrade,3,True,True,False,
+controlled,137,0.68,0.8,0.16,F2_recover,2,True,True,False,
+controlled,137,0.68,0.8,0.16,F3_counter_primed,3,True,True,False,
+controlled,137,0.68,0.8,0.16,F4_counter_reset,,,,True,F4 infeasible for R*=0.160: max ARS drop 0.0462 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.68,0.8,0.16,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.64,0.72,0.2,F1_degrade,2,True,True,False,
+controlled,137,0.64,0.72,0.2,F2_recover,2,True,True,False,
+controlled,137,0.64,0.72,0.2,F3_counter_primed,2,True,True,False,
+controlled,137,0.64,0.72,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.64,0.72,0.2,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.7,0.74,0.18,F1_degrade,3,True,True,False,
+controlled,137,0.7,0.74,0.18,F2_recover,2,True,True,False,
+controlled,137,0.7,0.74,0.18,F3_counter_primed,3,True,True,False,
+controlled,137,0.7,0.74,0.18,F4_counter_reset,,,,True,F4 infeasible for R*=0.180: max ARS drop 0.0502 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.7,0.74,0.18,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.66,0.74,0.2,F1_degrade,3,True,True,False,
+controlled,137,0.66,0.74,0.2,F2_recover,2,True,True,False,
+controlled,137,0.66,0.74,0.2,F3_counter_primed,3,True,True,False,
+controlled,137,0.66,0.74,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.66,0.74,0.2,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.66,0.72,0.2,F1_degrade,2,True,True,False,
+controlled,137,0.66,0.72,0.2,F2_recover,2,True,True,False,
+controlled,137,0.66,0.72,0.2,F3_counter_primed,3,True,True,False,
+controlled,137,0.66,0.72,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.66,0.72,0.2,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.68,0.72,0.26,F1_degrade,3,True,True,False,
+controlled,137,0.68,0.72,0.26,F2_recover,2,True,True,False,
+controlled,137,0.68,0.72,0.26,F3_counter_primed,3,True,True,False,
+controlled,137,0.68,0.72,0.26,F4_counter_reset,,,,True,F4 infeasible for R*=0.260: max ARS drop 0.0662 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.68,0.72,0.26,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.7,0.76,0.28,F1_degrade,3,True,True,False,
+controlled,137,0.7,0.76,0.28,F2_recover,2,True,True,False,
+controlled,137,0.7,0.76,0.28,F3_counter_primed,3,True,True,False,
+controlled,137,0.7,0.76,0.28,F4_counter_reset,,,,True,F4 infeasible for R*=0.280: max ARS drop 0.0702 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.7,0.76,0.28,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.7,0.74,0.24,F1_degrade,3,True,True,False,
+controlled,137,0.7,0.74,0.24,F2_recover,2,True,True,False,
+controlled,137,0.7,0.74,0.24,F3_counter_primed,3,True,True,False,
+controlled,137,0.7,0.74,0.24,F4_counter_reset,,,,True,F4 infeasible for R*=0.240: max ARS drop 0.0622 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.7,0.74,0.24,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.72,0.72,0.22,F1_degrade,3,True,True,False,
+controlled,137,0.72,0.72,0.22,F2_recover,2,True,True,False,
+controlled,137,0.72,0.72,0.22,F3_counter_primed,3,True,True,False,
+controlled,137,0.72,0.72,0.22,F4_counter_reset,,,,True,F4 infeasible for R*=0.220: max ARS drop 0.0582 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.72,0.72,0.22,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.7,0.76,0.24,F1_degrade,3,True,True,False,
+controlled,137,0.7,0.76,0.24,F2_recover,2,True,True,False,
+controlled,137,0.7,0.76,0.24,F3_counter_primed,3,True,True,False,
+controlled,137,0.7,0.76,0.24,F4_counter_reset,,,,True,F4 infeasible for R*=0.240: max ARS drop 0.0622 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.7,0.76,0.24,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.68,0.74,0.24,F1_degrade,3,True,True,False,
+controlled,137,0.68,0.74,0.24,F2_recover,2,True,True,False,
+controlled,137,0.68,0.74,0.24,F3_counter_primed,3,True,True,False,
+controlled,137,0.68,0.74,0.24,F4_counter_reset,,,,True,F4 infeasible for R*=0.240: max ARS drop 0.0622 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.68,0.74,0.24,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.68,0.76,0.26,F1_degrade,3,True,True,False,
+controlled,137,0.68,0.76,0.26,F2_recover,2,True,True,False,
+controlled,137,0.68,0.76,0.26,F3_counter_primed,3,True,True,False,
+controlled,137,0.68,0.76,0.26,F4_counter_reset,,,,True,F4 infeasible for R*=0.260: max ARS drop 0.0662 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.68,0.76,0.26,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.7,0.72,0.2,F1_degrade,3,True,True,False,
+controlled,137,0.7,0.72,0.2,F2_recover,2,True,True,False,
+controlled,137,0.7,0.72,0.2,F3_counter_primed,3,True,True,False,
+controlled,137,0.7,0.72,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.7,0.72,0.2,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.7,0.74,0.2,F1_degrade,3,True,True,False,
+controlled,137,0.7,0.74,0.2,F2_recover,2,True,True,False,
+controlled,137,0.7,0.74,0.2,F3_counter_primed,3,True,True,False,
+controlled,137,0.7,0.74,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.7,0.74,0.2,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.66,0.76,0.16,F1_degrade,3,True,True,False,
+controlled,137,0.66,0.76,0.16,F2_recover,2,True,True,False,
+controlled,137,0.66,0.76,0.16,F3_counter_primed,3,True,True,False,
+controlled,137,0.66,0.76,0.16,F4_counter_reset,,,,True,F4 infeasible for R*=0.160: max ARS drop 0.0462 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.66,0.76,0.16,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.64,0.76,0.2,F1_degrade,2,True,True,False,
+controlled,137,0.64,0.76,0.2,F2_recover,2,True,True,False,
+controlled,137,0.64,0.76,0.2,F3_counter_primed,3,True,True,False,
+controlled,137,0.64,0.76,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.64,0.76,0.2,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.64,0.78,0.24,F1_degrade,3,True,True,False,
+controlled,137,0.64,0.78,0.24,F2_recover,2,True,True,False,
+controlled,137,0.64,0.78,0.24,F3_counter_primed,3,True,True,False,
+controlled,137,0.64,0.78,0.24,F4_counter_reset,,,,True,F4 infeasible for R*=0.240: max ARS drop 0.0622 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.64,0.78,0.24,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.66,0.7,0.28,F1_degrade,2,True,True,False,
+controlled,137,0.66,0.7,0.28,F2_recover,2,True,True,False,
+controlled,137,0.66,0.7,0.28,F3_counter_primed,2,True,True,False,
+controlled,137,0.66,0.7,0.28,F4_counter_reset,,,,True,F4 infeasible for R*=0.280: max ARS drop 0.0702 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.66,0.7,0.28,__AGGREGATE__,,,,False,pdi_range=0 pdi_dis=0.0000 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.66,0.78,0.2,F1_degrade,3,True,True,False,
+controlled,137,0.66,0.78,0.2,F2_recover,2,True,True,False,
+controlled,137,0.66,0.78,0.2,F3_counter_primed,3,True,True,False,
+controlled,137,0.66,0.78,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.66,0.78,0.2,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.7,0.76,0.2,F1_degrade,3,True,True,False,
+controlled,137,0.7,0.76,0.2,F2_recover,2,True,True,False,
+controlled,137,0.7,0.76,0.2,F3_counter_primed,3,True,True,False,
+controlled,137,0.7,0.76,0.2,F4_counter_reset,,,,True,F4 infeasible for R*=0.200: max ARS drop 0.0542 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.7,0.76,0.2,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.68,0.74,0.26,F1_degrade,3,True,True,False,
+controlled,137,0.68,0.74,0.26,F2_recover,2,True,True,False,
+controlled,137,0.68,0.74,0.26,F3_counter_primed,3,True,True,False,
+controlled,137,0.68,0.74,0.26,F4_counter_reset,,,,True,F4 infeasible for R*=0.260: max ARS drop 0.0662 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.68,0.74,0.26,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.7,0.72,0.16,F1_degrade,3,True,True,False,
+controlled,137,0.7,0.72,0.16,F2_recover,2,True,True,False,
+controlled,137,0.7,0.72,0.16,F3_counter_primed,3,True,True,False,
+controlled,137,0.7,0.72,0.16,F4_counter_reset,,,,True,F4 infeasible for R*=0.160: max ARS drop 0.0462 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.7,0.72,0.16,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']
+controlled,137,0.68,0.74,0.16,F1_degrade,3,True,True,False,
+controlled,137,0.68,0.74,0.16,F2_recover,2,True,True,False,
+controlled,137,0.68,0.74,0.16,F3_counter_primed,3,True,True,False,
+controlled,137,0.68,0.74,0.16,F4_counter_reset,,,,True,F4 infeasible for R*=0.160: max ARS drop 0.0462 <= tr=0.1 (Controlled Mode physical constraint; target is out-of-support
+controlled,137,0.68,0.74,0.16,__AGGREGATE__,,,,False,pdi_range=1 pdi_dis=0.6667 n_families=3 oos=['F4_counter_reset']

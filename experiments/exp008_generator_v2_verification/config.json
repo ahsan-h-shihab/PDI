@@ -1,0 +1,25 @@
+{
+  "experiment_id": "exp008_generator_v2_verification",
+  "code_commit": "707805d",
+  "exp005_ref": "ce8adce",
+  "prior_levels": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "cu_targets": [
+    0,
+    2
+  ],
+  "seeds": [
+    42,
+    137
+  ],
+  "modes": [
+    "controlled"
+  ],
+  "H": 100,
+  "n_targets": 10
+}

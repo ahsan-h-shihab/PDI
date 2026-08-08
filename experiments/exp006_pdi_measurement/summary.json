@@ -1,0 +1,11 @@
+{
+  "n_targets": 50,
+  "n_computed": 50,
+  "HSF": 0.0,
+  "mean_PDI": 0.0,
+  "max_PDI": 0,
+  "pdi_distribution": {
+    "0": 50
+  },
+  "elapsed_s": 0.32
+}

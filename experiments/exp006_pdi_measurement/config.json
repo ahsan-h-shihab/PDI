@@ -1,0 +1,24 @@
+{
+  "experiment_id": "exp006_pdi_measurement",
+  "code_commit": "31a3b42",
+  "exp005_ref": "exp005_convergent_generator@ce8adce",
+  "envelope_path": "/tmp/tdaa/experiments/exp004_envelope/envelope.json",
+  "n_targets": 50,
+  "seeds": [
+    42,
+    137
+  ],
+  "modes": [
+    "controlled"
+  ],
+  "H": 100,
+  "families": [
+    "F1_degrade",
+    "F2_recover",
+    "F3_counter_primed",
+    "F4_counter_reset"
+  ],
+  "policy": "TRAPPolicy(default: w=(.5,.3,.2) te=.05 tr=.10 k=3)",
+  "h1_falsification": "HSF<0.10 AND mean_PDI<0.10",
+  "h2_falsification": "mean_PDI non-monotone in k across k={2,3,4}"
+}
