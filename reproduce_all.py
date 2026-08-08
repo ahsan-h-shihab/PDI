@@ -14,6 +14,13 @@ Estimated runtime: < 60 seconds on a single CPU core.
 import sys, os, json, csv, hashlib, numpy as np
 sys.path.insert(0, os.path.dirname(__file__))
 
+# Restore the two byte-exact frozen CSVs from frozen_csvs.zip before any hash
+# check. The anonymous review host normalizes text-file line endings, which would
+# otherwise break the CRLF-sensitive frozen hashes; the CSVs are therefore shipped
+# inside a binary archive. This step is deterministic and fails loudly on any problem.
+from restore_frozen import restore_frozen_csvs
+restore_frozen_csvs()
+
 from generator   import load_envelope, assert_terminates_at, assert_admissible
 from generator_v2 import gen_convergent_v2, assert_prior_level
 from policies    import TRAPPolicy, up_edge

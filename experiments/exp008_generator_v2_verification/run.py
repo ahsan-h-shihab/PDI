@@ -29,6 +29,14 @@ def _wopen(_path, _mode="w", *a, **k):
     return open(_path, _mode, *a, **k)
 
 sys.path.insert(0, _PKG_ROOT)
+# Restore byte-exact frozen CSVs from frozen_csvs.zip before the inline hash checks
+# below (the anonymous host normalizes text line endings; CSVs ship in a binary archive).
+try:
+    from restore_frozen import restore_frozen_csvs as _rfc
+    _rfc(verbose=False)
+except Exception as _e:
+    pass  # if the archive is absent (e.g. original dev tree), fall through to existing checks
+
 from generator   import load_envelope, assert_terminates_at, assert_admissible
 from generator_v2 import (gen_convergent_v2, assert_reproducible_v2,
                            assert_prior_level, get_memory_at_H2)

@@ -13,6 +13,34 @@ python3 reproduce_all.py
 Expected output: 31 PASS, 0 FAIL, exit code 0.
 Estimated runtime: < 60 seconds, single CPU core, no GPU, no internet.
 
+`reproduce_all.py` (and the two `verify_*_frozen.py` scripts) automatically
+restore the two byte-exact frozen CSV artifacts from `frozen_csvs.zip` before
+checking their SHA-256 hashes — you do not need to run any extra step. If you
+prefer to restore them explicitly first, run:
+
+```bash
+python3 restore_frozen.py
+```
+
+### Why the frozen CSVs ship inside `frozen_csvs.zip`
+
+Two frozen result artifacts are pinned by SHA-256 and were written with CRLF
+line endings:
+
+* `experiments/exp005_convergent_generator/raw_results.csv`
+* `experiments/exp008_generator_v2_verification/raw_results.csv`
+
+The anonymous review host normalizes the line endings of any file it serves as
+text, which silently rewrites those two CSVs to LF and breaks their frozen
+hashes. Binary files (such as a `.zip`) are served byte-for-byte unchanged. To
+preserve the exact bytes through the host, the two CSVs are shipped inside the
+binary archive `frozen_csvs.zip`, and the verification scripts restore them to
+their original paths (with CRLF intact) before hashing. The restoration is
+deterministic and fails loudly if the archive is missing, a file is missing
+from it, or the extracted bytes do not match the pinned frozen hash. The
+ordinary CSV copies remain in the experiment directories so all existing
+experiment scripts continue to work unchanged.
+
 ---
 
 ## What reproduce_all.py checks

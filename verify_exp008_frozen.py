@@ -1,4 +1,9 @@
-import hashlib, json, sys
+import hashlib, json, sys, os
+# Restore the byte-exact frozen CSV from frozen_csvs.zip before hashing (the
+# anonymous host normalizes text line endings; the CSV ships in a binary archive).
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from restore_frozen import restore_frozen_csvs
+restore_frozen_csvs()
 hashes=json.load(open('experiments/exp008_generator_v2_verification/freeze_hashes_v2.json'))
 fail=0
 for path,expected in hashes.items():
