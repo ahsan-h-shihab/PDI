@@ -1,0 +1,4 @@
+# Reproducibility dependencies for the Path-Dependence Index (PDI) experiments
+# Tested with Python 3.12.3
+numpy==2.4.4
+matplotlib==3.10.8

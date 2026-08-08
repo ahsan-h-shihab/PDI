@@ -1,0 +1,10 @@
+{
+  "n_histories": 264,
+  "n_s1_fail": 0,
+  "n_adm_fail": 0,
+  "n_s4_fail": 0,
+  "n_s3_distinct": 18,
+  "n_s3_insensitive": 48,
+  "n_oos": 36,
+  "elapsed_s": 0.83
+}

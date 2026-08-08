@@ -1,0 +1,10 @@
+{
+  "experiments/exp005_convergent_generator/config.json": "c1db67a331394ca27ff0e082d5d9775d50ad7a7e4c0097d88b1cd511725b4a70",
+  "experiments/exp005_convergent_generator/parameters.json": "3a6a9ab793c341e6496f2edbf0ea02abfa076fb84c7ae1e324e1b4b637ef1472",
+  "experiments/exp005_convergent_generator/seed.txt": "6b0400a3f152b5ed944f57532813e3425ff894ade6995d75af2ef09c11d5e422",
+  "experiments/exp005_convergent_generator/raw_results.csv": "13eafae687f445747fe77d21107999dec3437bbf66b63ecba73564f162ddabe7",
+  "experiments/exp005_convergent_generator/processed_results.json": "666a88d059c019879545e0a2964e80e632e7be11a5552a3833dabfcbcce6ff7b",
+  "experiments/exp005_convergent_generator/log.md": "fe8ce5ae55527c08efaf484911681066ed962ca625bc12059540082e0877af95",
+  "generator.py": "6244f2a0f129ed1cae482d85749e8c4cb90115dedabb0a1e6c92f9e9b9a31bcd",
+  "experiments/exp004_envelope/envelope.json": "0b51f11ebf8d84d574bad9eeabf0ee541228d2ec82fa03867083b84b3e6c0aa5"
+}

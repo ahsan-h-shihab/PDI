@@ -1,0 +1,20 @@
+{
+  "experiment_id": "exp009_pdi_v2",
+  "code_commit": "2a44c91",
+  "exp006_targets": "exp006_pdi_measurement/selected_targets.json",
+  "exp008_generator": "generator_v2.py@2a44c91",
+  "prior_levels": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "seeds": [
+    42,
+    137
+  ],
+  "H": 100,
+  "policy": "TRAPPolicy(default)",
+  "h1_falsification": "HSF<0.10 AND mean_PDI<0.10 (pre-registered exp006)"
+}

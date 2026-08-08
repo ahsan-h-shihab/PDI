@@ -1,0 +1,34 @@
+{
+  "experiment_id": "exp004_envelope",
+  "code_commit": "1846ef9",
+  "sample_episodes": 20000,
+  "sample_steps": 1980000,
+  "seed": 20240601,
+  "dT_max_ordinary_q9999": 0.06324169147063524,
+  "dT_max_ordinary_max": 0.08035533176570553,
+  "dS_max_ordinary_q9999": 0.04205443180567201,
+  "dS_max_ordinary_max": 0.053667770221872524,
+  "dT_max": 0.06324169147063524,
+  "dS_max": 0.04205443180567201,
+  "fault_step": 40,
+  "dT_fault_min": 0.15013609605493328,
+  "dT_fault_max": 0.44121176752999436,
+  "T_range": [
+    0.0,
+    1.0
+  ],
+  "S_range": [
+    0.17734971501375515,
+    1.0
+  ],
+  "R_range": [
+    0.15000001998011903,
+    0.8499996390268986
+  ],
+  "scenario": {
+    "fault_t": 40,
+    "recovery_t": 60,
+    "horizon": 100
+  },
+  "note": "Controlled Mode uses dT_max/dS_max (ordinary-step 99.99pct). Natural Mode also obeys scenario schedule incl. fault jump at fault_step. R not autoregressive -> no dR bound."
+}

@@ -1,0 +1,11 @@
+{
+  "n_targets": 50,
+  "seed_primary": 42,
+  "HSF": 1.0,
+  "mean_PDI": 3.0,
+  "max_PDI": 3,
+  "pdi_distribution": {
+    "3": 50
+  },
+  "elapsed_s": 0.32
+}

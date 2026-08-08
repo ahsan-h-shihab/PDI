@@ -1,0 +1,352 @@
+[
+  {
+    "T_star": 0.68,
+    "S_star": 0.76,
+    "R_star": 0.16,
+    "occurrence": 240,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.66,
+    "S_star": 0.76,
+    "R_star": 0.18,
+    "occurrence": 239,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.66,
+    "S_star": 0.74,
+    "R_star": 0.28,
+    "occurrence": 238,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.68,
+    "S_star": 0.74,
+    "R_star": 0.22,
+    "occurrence": 235,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.66,
+    "S_star": 0.74,
+    "R_star": 0.24,
+    "occurrence": 235,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.66,
+    "S_star": 0.8,
+    "R_star": 0.2,
+    "occurrence": 235,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.68,
+    "S_star": 0.74,
+    "R_star": 0.18,
+    "occurrence": 233,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.7,
+    "S_star": 0.8,
+    "R_star": 0.28,
+    "occurrence": 232,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.68,
+    "S_star": 0.72,
+    "R_star": 0.16,
+    "occurrence": 232,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.66,
+    "S_star": 0.7,
+    "R_star": 0.18,
+    "occurrence": 232,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.68,
+    "S_star": 0.72,
+    "R_star": 0.2,
+    "occurrence": 232,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.66,
+    "S_star": 0.8,
+    "R_star": 0.16,
+    "occurrence": 232,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.7,
+    "S_star": 0.72,
+    "R_star": 0.22,
+    "occurrence": 229,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.66,
+    "S_star": 0.72,
+    "R_star": 0.22,
+    "occurrence": 229,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.7,
+    "S_star": 0.78,
+    "R_star": 0.2,
+    "occurrence": 227,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.7,
+    "S_star": 0.72,
+    "R_star": 0.24,
+    "occurrence": 227,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.7,
+    "S_star": 0.74,
+    "R_star": 0.16,
+    "occurrence": 227,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.68,
+    "S_star": 0.78,
+    "R_star": 0.16,
+    "occurrence": 227,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.68,
+    "S_star": 0.76,
+    "R_star": 0.28,
+    "occurrence": 225,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.68,
+    "S_star": 0.76,
+    "R_star": 0.18,
+    "occurrence": 225,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.68,
+    "S_star": 0.72,
+    "R_star": 0.28,
+    "occurrence": 224,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.66,
+    "S_star": 0.74,
+    "R_star": 0.22,
+    "occurrence": 224,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.66,
+    "S_star": 0.72,
+    "R_star": 0.28,
+    "occurrence": 224,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.68,
+    "S_star": 0.74,
+    "R_star": 0.2,
+    "occurrence": 221,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.7,
+    "S_star": 0.76,
+    "R_star": 0.16,
+    "occurrence": 221,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.66,
+    "S_star": 0.8,
+    "R_star": 0.22,
+    "occurrence": 220,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.64,
+    "S_star": 0.76,
+    "R_star": 0.24,
+    "occurrence": 220,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.68,
+    "S_star": 0.8,
+    "R_star": 0.16,
+    "occurrence": 220,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.64,
+    "S_star": 0.72,
+    "R_star": 0.2,
+    "occurrence": 219,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.7,
+    "S_star": 0.74,
+    "R_star": 0.18,
+    "occurrence": 219,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.66,
+    "S_star": 0.74,
+    "R_star": 0.2,
+    "occurrence": 219,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.66,
+    "S_star": 0.72,
+    "R_star": 0.2,
+    "occurrence": 219,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.68,
+    "S_star": 0.72,
+    "R_star": 0.26,
+    "occurrence": 218,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.7,
+    "S_star": 0.76,
+    "R_star": 0.28,
+    "occurrence": 218,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.7,
+    "S_star": 0.74,
+    "R_star": 0.24,
+    "occurrence": 218,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.72,
+    "S_star": 0.72,
+    "R_star": 0.22,
+    "occurrence": 217,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.7,
+    "S_star": 0.76,
+    "R_star": 0.24,
+    "occurrence": 217,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.68,
+    "S_star": 0.74,
+    "R_star": 0.24,
+    "occurrence": 217,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.68,
+    "S_star": 0.76,
+    "R_star": 0.26,
+    "occurrence": 217,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.7,
+    "S_star": 0.72,
+    "R_star": 0.2,
+    "occurrence": 217,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.7,
+    "S_star": 0.74,
+    "R_star": 0.2,
+    "occurrence": 215,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.66,
+    "S_star": 0.76,
+    "R_star": 0.16,
+    "occurrence": 215,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.64,
+    "S_star": 0.76,
+    "R_star": 0.2,
+    "occurrence": 215,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.64,
+    "S_star": 0.78,
+    "R_star": 0.24,
+    "occurrence": 215,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.66,
+    "S_star": 0.7,
+    "R_star": 0.28,
+    "occurrence": 214,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.66,
+    "S_star": 0.78,
+    "R_star": 0.2,
+    "occurrence": 214,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.7,
+    "S_star": 0.76,
+    "R_star": 0.2,
+    "occurrence": 213,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.68,
+    "S_star": 0.74,
+    "R_star": 0.26,
+    "occurrence": 212,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.7,
+    "S_star": 0.72,
+    "R_star": 0.16,
+    "occurrence": 212,
+    "known_levels": "[2, 3]"
+  },
+  {
+    "T_star": 0.68,
+    "S_star": 0.74,
+    "R_star": 0.16,
+    "occurrence": 212,
+    "known_levels": "[2, 3]"
+  }
+]
